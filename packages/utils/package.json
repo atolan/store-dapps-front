@@ -1,0 +1,11 @@
+{
+  "name": "@patract/utils",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "@ethersproject/bignumber": "^5.0.13",
+    "@patract/react-components": "workspace:packages/react-components",
+    "@polkadot/api-contract": "^4.13.1",
+    "@polkadot/ui-keyring": "^0.79.1"
+  }
+}
